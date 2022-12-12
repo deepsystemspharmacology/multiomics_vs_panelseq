@@ -1,5 +1,9 @@
 # Multiomics vs Panelseq
 
+Multi-Omics Alleviates the Limitations of Panel Sequencing for
+Cancer Drug Response Prediction - Artem Baranovskii 1,† , Irem B. Gündüz 2,† , Vedran Franke 3
+, Bora Uyar 3,* and Altuna Akalin 3
+
 Supporting repository for the manuscript of the same name. Here, one can find scripts and instructions to recreate the work partly or as a whole.
 
 
